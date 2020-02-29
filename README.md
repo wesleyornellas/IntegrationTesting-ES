@@ -1,7 +1,8 @@
 # Atividade - Testing Integration
 
-Tayana Sales Ferreira - RA 1802082
-Wesley Ornellas - RA1802357
+- Tayana Sales Ferreira - RA 1802082
+
+- Wesley Ornellas - RA1802357
 
 ## API
 
